@@ -1,6 +1,6 @@
 # linux-kernel-module-develop-learn
 
-linux 内核模块学习
+学习 linux 内核模块开发
 
 ### 1.hello
 
